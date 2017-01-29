@@ -1,2 +1,2 @@
 # Code Directory. 
-All your code should go here. Make sure files are named as explicitly as possible.
+Code files (.c, .cpp, .h etc) go in this directory, with meaningful and specific filenames.
